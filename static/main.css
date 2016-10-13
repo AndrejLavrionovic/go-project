@@ -24,3 +24,33 @@
     border: 2px solid white; }
     .jumbotron .lang-logo img {
       max-width: 100%; }
+
+body{
+    color: #303030;
+    background: #F4F7C0;
+}
+
+div{
+    display: block;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #808080;
+    border-radius: 4px;
+    width: 500px;
+    background: #EFF8FF;
+}
+
+h1{
+    font: bold 15px verdana;
+}
+h4{
+    font: bold 12px verdana;
+}
+p{
+    display: block;
+    padding: 10px;
+    border: 1px solid #FFB787;
+    border-radius: 2px;
+    font: normal 12px calibri;
+    margin-top: 10px
+}
